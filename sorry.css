@@ -1,0 +1,60 @@
+body {
+    background-image:url("https://w0.peakpx.com/wallpaper/199/213/HD-wallpaper-brown-abstract-design-pattern-vector-thumbnail.jpg");
+    }
+.rose1-top-left {
+    position: absolute;
+    top: 93px;
+    left: 23px;
+    font-size: 30px;
+    transform:rotate(23deg);
+}
+.rose2-top-left {
+    position: absolute;
+    top: 93px;
+    left: 0px;
+    font-size: 30px;
+    transform:rotate(-43deg);
+}
+.rose3-top-left {
+    position: absolute;
+    top: 97px;
+    left: 7px;
+    font-size: 37px;
+    transform:rotate(-13deg);
+}
+.coeur{
+    position: absolute ;
+    right:1px;
+    top:90px;
+    font-size:33px;
+    transform:rotate(17deg);
+}
+#red{
+    color:rgb(140,0,0);
+    font-weight:700;
+}
+p{
+    font-family:georgia;
+    font-size:15px;
+    text-align:center;
+}
+h1{
+    text-align:center;
+    font-family:cursive;
+    text-shadow:1px 2px 5px white;
+    font-size:40px;
+}
+.contours{
+    background-color:rgb(160,130,120);
+    font-weight:300;
+    border-radius:20px;
+}
+#arabic{
+    color:rgb(30,30,30);
+    font-weight:700;
+}
+#signing-off{
+    text-shadow:1px 2px 10px black;
+    text-decoration:underline dotted ;
+}
+
